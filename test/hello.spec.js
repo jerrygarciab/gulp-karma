@@ -8,6 +8,6 @@ describe('greeter', function () {
 describe('goodbye', function () {
   
   it('should say good bye', function () {
-    expect('goodbye').toEqual('good bye');
+    expect('goodbye').toEqual('goodbye');
   });
 });
