@@ -11,3 +11,10 @@ describe('goodbye', function () {
     expect(goodbye()).toEqual('goodbye');
   });
 });
+
+describe('sum', function () {
+  
+  it('should add 2 numbers', function () {
+    expect(sum(1, 1)).toEqual(2);
+  });
+})
