@@ -12,9 +12,9 @@ describe('goodbye', function () {
   });
 });
 
-describe('sum', function () {
+/*describe('sum', function () {
   
   it('should add 2 numbers', function () {
     expect(sum(1, 1)).toEqual(2);
   });
-})
+})*/
